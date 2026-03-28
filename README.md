@@ -2,6 +2,22 @@
 
 **Stadtentwicklung durch Eigeninitiative**
 
+## Executive Summary
+
+Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge – mit dem Auftrag, echte Stadtprobleme zu durchdringen und konkrete Umsetzungspläne zu entwickeln. Die stärksten Teams setzen ihre Ideen in einer 3-monatigen Vertiefungsphase um.
+
+Das Lab nutzt ein einmaliges Zeitfenster: Die Landesgartenschau 2027 bringt Aufmerksamkeit und Investitionen, der Zukunftsbahnhof ist im Entstehen, die Kleinstadtakademie ist vor Ort. Die Voraussetzungen für externen Impuls waren selten besser.
+
+**Ziele:**
+- Leerstand in der Innenstadt aktivieren – neue Betreibermodelle, neue Nutzungen
+- Zuzug stärken – Strukturen schaffen die Menschen zum Bleiben bewegen
+- Neue Gewerbetreibende und Unternehmen nach Wittenberge bringen
+- Nachhaltigen Tourismus entlang des Elberadwegs und im Biosphärenreservat ausbauen
+
+Das Lab ist kein Förderprogramm und kein Workshop. Es ist ein Accelerator für Stadtentwicklung durch Eigeninitiative – finanziert über LEADER, getragen von lokalen Partnern, initiiert von den Elblandwerkern.
+
+---
+
 ## Inhalt
 
 1. [Ausgangslage](#1-ausgangslage)
@@ -24,7 +40,7 @@
 | **Teilnehmende** | Ca. 10 Personen (diverse Hintergründe) |
 | **Unterkunft** | Community-Wohnungen der Elblandwerker – möbliert, sofort beziehbar, kostenlos |
 | **Arbeitsraum** | Coworking bei Elblandwerker oder TGZ im Bahnhof |
-| **Initiator** | Privater Initiator in Kooperation mit Stadt Wittenberge |
+| **Initiator** | Elblandwerker in Kooperation mit Stadt Wittenberge |
 
 ---
 
@@ -53,13 +69,13 @@ Die Landesgartenschau 2027 bringt ein seltenes Zeitfenster: Aufmerksamkeit, Inve
 
 ### Warum jetzt
 
-Das Lab nutzt diesen Moment: Wir wollen kreative Köpfe nach Wittenberge bringen, echte Probleme lösen, Wirkung erzielen.
+Die Elblandwerker initiieren das Lab: Wir wollen kreative Köpfe nach Wittenberge bringen, echte Probleme lösen, Wirkung erzielen.
 
 ---
 
 ## 2. Konzept
 
-Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit optionaler Unterstützung durch das Lab-Team.
+Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
 
 Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
 
@@ -86,7 +102,7 @@ Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt
 Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
 
 **Phase 2 – 3 Monate (Umsetzung, selektiv)**
-Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch Initiator und lokale Partner vor Ort.
+Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch die Elblandwerker und lokale Partner vor Ort.
 
 ---
 
