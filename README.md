@@ -4,9 +4,9 @@
 
 ## Executive Summary
 
-Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge – mit dem Auftrag, echte Stadtprobleme zu durchdringen und konkrete Umsetzungspläne zu entwickeln. Die stärksten Teams setzen ihre Ideen in einer 3-monatigen Vertiefungsphase um.
+Das Wittenberge Lab bringt 4 Teams à 3–4 Personen für 3 Wochen nach Wittenberge – mit dem Auftrag, echte Stadtprobleme zu durchdringen und konkrete Umsetzungspläne zu entwickeln. Die stärksten Teams setzen ihre Ideen in einer 3-monatigen Vertiefungsphase um.
 
-Das Lab nutzt ein einmaliges Zeitfenster: Die Landesgartenschau 2027 bringt Aufmerksamkeit und Investitionen, der Zukunftsbahnhof ist im Entstehen, die Kleinstadtakademie ist vor Ort. Die Voraussetzungen für externen Impuls waren selten besser.
+Das Lab nutzt ein einmaliges Zeitfenster: Die Landesgartenschau 2027 bringt Aufmerksamkeit und Investitionen. Der Zukunftsbahnhof ist fertig und die Kleinstadtakademie ist vor Ort. Die Voraussetzungen für externen Impuls waren selten besser.
 
 **Ziele:**
 - Leerstand aktivieren – neue Betreibermodelle und Nutzungen für schwierige Objekte
@@ -20,26 +20,14 @@ Das Lab ist kein Förderprogramm und kein Workshop. Es ist ein Accelerator für 
 ## Inhalt
 
 1. [Ausgangslage](#1-ausgangslage)
-2. [Konzept](#2-konzept)
-3. [Ablauf](#3-ablauf)
-4. [Zielgruppe](#4-zielgruppe)
-5. [Fokusthemen](#5-fokusthemen)
-6. [Potenzielle Partner](#6-potenzielle-partner)
+2. [Erfolgsbild](#2-erfolgsbild)
+3. [Fokusthemen](#3-fokusthemen)
+4. [Konzept](#4-konzept)
+5. [Ablauf & Zeitplan](#5-ablauf--zeitplan)
+6. [Zielgruppe](#6-zielgruppe)
 7. [Finanzierungskonzept](#7-finanzierungskonzept)
-8. [Erfolgsbild](#8-erfolgsbild)
-9. [Zeitplan](#zeitplan)
-10. [Offene Punkte](#9-offene-punkte)
-
----
-
-| | |
-|---|---|
-| **Ort** | Wittenberge, Brandenburg |
-| **Laufzeit** | 3 Wochen Sprint + 3 Monate Umsetzung (selektiv) |
-| **Teilnehmende** | 4 Teams à 3–4 Personen (12–16 Teilnehmende) |
-| **Unterkunft** | Community-Wohnungen der Elblandwerker – möbliert, sofort beziehbar, kostenlos |
-| **Arbeitsraum** | Coworking bei Elblandwerker oder TGZ im Bahnhof |
-| **Initiator** | Elblandwerker in Kooperation mit Stadt Wittenberge |
+8. [Potenzielle Partner](#8-potenzielle-partner)
+9. [Offene Punkte](#9-offene-punkte)
 
 ---
 
@@ -72,66 +60,22 @@ Die Elblandwerker initiieren das Lab: Wir wollen kreative Köpfe nach Wittenberg
 
 ---
 
-## 2. Konzept
+## 2. Erfolgsbild
 
-Das Wittenberge Lab bringt 4 Teams à 3–4 Personen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
+Das Wittenberge Lab ist erfolgreich, wenn aus dem Sprint konkrete Projekte entstehen, die messbar zur Stadtentwicklung beitragen. Mindestens eines der folgenden Ziele sollte durch Phase 2 erreicht werden:
 
-Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
+- **Leerstand sinkt** – mindestens ein Objekt in der Innenstadt wird dauerhaft aktiviert, ein neues Betreibermodell wird umgesetzt
+- **Zuzug stärkt sich** – mindestens ein Team oder einzelne Teilnehmende bleiben dauerhaft in Wittenberge, neue Strukturen zum Bleiben entstehen
+- **Neue Gewerbetreibende** – mindestens ein neues Unternehmen oder Gewerbetreibender siedelt sich in Wittenberge an
+- **Nachhaltiger Tourismus** – neue Angebote entlang des Elberadwegs oder im Biosphärenreservat entstehen, die dauerhaft Besucher anziehen und lokale Wertschöpfung schaffen
 
-### Unterschied zum Original Summer of Pioneers
-
-| Summer of Pioneers (Original) | Wittenberge Lab |
-|---|---|
-| 6–12 Monate, offen | 3 Wochen Sprint + 3 Monate Umsetzung |
-| Primär Digitalarbeiter:innen | Diverse Gruppe: Forscher, Studierende, Menschen im Umbruch, Remote-Worker |
-| Leben auf Probe, offene Projekte | Konkrete Stadtprobleme als Ausgangspunkt |
-| Kein formaler Selektionsprozess | Jury-Entscheidung nach 3 Wochen |
+Phase 1 ist der Weg dorthin: Teams die nach 3 Wochen einen überzeugenden Umsetzungsplan vorlegen, bekommen die Chance in Phase 2 echte Wirkung zu erzielen.
 
 ---
 
-## 3. Ablauf
+## 3. Fokusthemen
 
-**Phase 0 – 4–6 Wochen vorher**
-Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
-
-**Phase 1 – 3 Wochen (Problemverständnis & Umsetzungsplan)**
-Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. 4 Teams starten, je einem Fokusthema zugeordnet – mit Puffer falls ein Team den Sprint nicht übersteht. Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
-
-**Jury – Ende Woche 3**
-Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
-
-**Phase 2 – 3 Monate (Umsetzung, selektiv)**
-Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch die Elblandwerker und lokale Partner vor Ort.
-
----
-
-## 4. Zielgruppe
-
-Das Wittenberge Lab braucht eine Mischung aus vier Typen – bewusst keine Einschränkung auf Digitalarbeiter:innen wie beim ursprünglichen Summer of Pioneers.
-
-**Macher & Umsetzer**
-Handwerker, Bauleute, Projektmanager – Menschen die wissen wie man Dinge physisch realisiert, Kosten einschätzt und Projekte ins Laufen bringt.
-
-**Denker & Konzeptierer**
-Stadtplaner, Sozialunternehmer, Forscher – Menschen die Probleme tief durchdringen und neue Modelle entwickeln.
-
-**Verbinder & Kommunikatoren**
-Community-Builder, Journalisten, Netzwerker – Menschen die Strukturen aktivieren, Sichtbarkeit schaffen und Brücken bauen.
-
-**Finanzierungs- & Förderexperten**
-Menschen mit Erfahrung in Förderprogrammen (LEADER, Städtebauförderung, EU-Töpfe), Crowdfunding oder Stiftungsfinanzierung – die wissen wo Geld für Stadtentwicklung herkommt.
-
-Alle Typen verbindet:
-- Flexibilität für 3 Wochen vor Ort (Sabbatical, Studium, Selbstständigkeit, Remote- oder Hybrid-Arbeit, Elternzeit, Karriere-Transition)
-- Mindestens 20 Stunden pro Woche für das Projekt verfügbar
-- Intrinsische Motivation, konkrete Probleme anzugehen
-- Eigeninitiative – kein Warten auf Aufgaben
-
----
-
-## 5. Fokusthemen
-
-Die Teilnehmenden erhalten am Onboarding-Tag einen strukturierten, datengestützten Überblick über drei konkrete Herausforderungen der Stadt. Diese decken sich direkt mit den Schwerpunktthemen der Kleinstadtakademie (Innenstadtbelebung, Wohnen, Zukunftsfähigkeit). Jedes Thema erhält einen konkreten Problem Owner – eine lokale Ansprechperson, die den Teams als Sparringspartner zur Verfügung steht.
+Die Teilnehmenden erhalten am Onboarding-Tag einen strukturierten, datengestützten Überblick über drei konkrete Herausforderungen der Stadt. Jedes Thema erhält einen konkreten Problem Owner – eine lokale Ansprechperson, die den Teams als Sparringspartner zur Verfügung steht.
 
 ### Thema 1: Leerstand aktivieren
 
@@ -155,25 +99,121 @@ Anknüpfungspunkte für Teams:
 
 ### Thema 3: LAGA 2027 – Was bleibt danach?
 
-Die Landesgartenschau 2027 bringt bis zu 500.000 Besucher, Investitionen und Aufmerksamkeit. Kultur, Tourismus und LAGA werden bereits unter einer Führung gebündelt (Ernst Volkhardt, LAGA Tourismus Wittenberge GmbH). Die entscheidende Frage: Was bleibt nach dem Gartenschaujahr?
+Die Landesgartenschau 2027 bringt bis zu 500.000 Besucher, Investitionen und Aufmerksamkeit. Kultur, Tourismus und LAGA werden bereits unter einer Führung gebündelt (LAGA Tourismus Wittenberge GmbH). Die entscheidende Frage: Was bleibt nach dem Gartenschaujahr?
 
 Konkrete Orte als Anknüpfungspunkte:
 - **Elbwärts 455** (Nedwighafen) – Gastronomie, schwimmende Ferienhäuser, Elbblick. Wie wird daraus ein dauerhafter Anziehungspunkt?
 - **Wasserturm & Trinkhalle** – besondere Orte die langfristig bespielt und vermarktet werden müssen
 - **Elberadweg & Biosphärenreservat** – nachhaltiger Tourismus als Struktur die unabhängig von der LAGA trägt
 
-*Ansprechpartner: Ernst Volkhardt, LAGA Tourismus Wittenberge GmbH*
-
+*Ansprechpartner: LAGA Tourismus Wittenberge GmbH*
 
 ---
 
-## 6. Potenzielle Partner
+## 4. Konzept
+
+Das Wittenberge Lab bringt 4 Teams à 3–4 Personen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
+
+Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
+
+### Unterschied zum Original Summer of Pioneers
+
+| Summer of Pioneers (Original) | Wittenberge Lab |
+|---|---|
+| 6–12 Monate, offen | 3 Wochen Sprint + 3 Monate Umsetzung |
+| Primär Digitalarbeiter:innen | Diverse Gruppe: Forscher, Studierende, Menschen im Umbruch, Remote-Worker |
+| Leben auf Probe, offene Projekte | Konkrete Stadtprobleme als Ausgangspunkt |
+| Kein formaler Selektionsprozess | Jury-Entscheidung nach 3 Wochen |
+
+---
+
+## 5. Ablauf & Zeitplan
+
+### Ablauf
+
+**Phase 0 – 4–6 Wochen vorher**
+Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
+
+**Phase 1 – 3 Wochen (Problemverständnis & Umsetzungsplan)**
+Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. 4 Teams starten und wählen ihr Fokusthema selbst – mehrere Teams können dasselbe Thema wählen und unterschiedliche Ansätze entwickeln. Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
+
+**Jury – Ende Woche 3**
+Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
+
+**Phase 2 – 3 Monate (Umsetzung, selektiv)**
+Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch die Elblandwerker und lokale Partner vor Ort.
+
+### Zeitplan
+
+| Zeitraum | Meilenstein |
+|---|---|
+| **Q2 2026** | Konzept finalisieren, Partner finden, Beratungsgespräch LEADER (Pflicht vor Antragstellung) |
+| **Q3 2026** | LEADER-Antrag einreichen (Stichtag 04.09.2026), Projektauswahl im Beirat (05.10.2026) |
+| **Q4 2026 / Q1 2027** | Bewilligung durch LELF, Teilnehmende rekrutieren, internes Team und Prozesse aufbauen |
+| **Mai 2027** | Sprint – 3 Wochen während der LAGA (21.04.–24.10.2027) |
+| **Ende Mai 2027** | Jury – Entscheidung über Umsetzungsphase |
+| **Juni–August 2027** | Phase 2 – Umsetzung |
+
+---
+
+## 6. Zielgruppe
+
+Das Wittenberge Lab braucht eine Mischung aus vier Typen – bewusst keine Einschränkung auf Digitalarbeiter:innen wie beim ursprünglichen Summer of Pioneers.
+
+**Macher & Umsetzer**
+Handwerker, Bauleute, Projektmanager – Menschen die wissen wie man Dinge physisch realisiert, Kosten einschätzt und Projekte ins Laufen bringt.
+
+**Denker & Konzeptierer**
+Stadtplaner, Sozialunternehmer, Forscher – Menschen die Probleme tief durchdringen und neue Modelle entwickeln.
+
+**Verbinder & Kommunikatoren**
+Community-Builder, Journalisten, Netzwerker – Menschen die Strukturen aktivieren, Sichtbarkeit schaffen und Brücken bauen.
+
+**Finanzierungs- & Förderexperten**
+Menschen mit Erfahrung in Förderprogrammen (LEADER, Städtebauförderung, EU-Töpfe), Crowdfunding oder Stiftungsfinanzierung – die wissen wo Geld für Stadtentwicklung herkommt.
+
+Alle Typen verbindet:
+- Flexibilität für 3 Wochen vor Ort (Sabbatical, Studium, Selbstständigkeit, Remote- oder Hybrid-Arbeit, Elternzeit, Karriere-Transition)
+- Mindestens 20 Stunden pro Woche für das Projekt verfügbar
+- Intrinsische Motivation, konkrete Probleme anzugehen
+- Eigeninitiative – kein Warten auf Aufgaben
+
+---
+
+## 7. Finanzierungskonzept
+
+**Phase 1 – Sprint (3 Wochen)**
+
+| Posten | Betrag |
+|---|---|
+| Unterkunft (8 Wohnungen × 500 € × 1 Monat, Probewohnprogramm Stadt Wittenberge) | 4.000 € |
+| Stipendium (16 Personen × 1.000 €) | 16.000 € |
+| **Gesamtbudget** | **20.000 €** |
+| LEADER-Förderung (80%) | 16.000 € |
+| Eigenanteil (20%) | 4.000 € |
+| Eigenanteil gedeckt durch Mietverzicht Elblandwerker | 4.000 € |
+
+**Ergebnis: Phase 1 wäre ohne eigenes Geld finanzierbar** – vorausgesetzt LEADER akzeptiert den Mietverzicht Elblandwerker als Eigenanteil. Im Beratungsgespräch mit LEADER zu klären.
+
+**Phase 2 – Umsetzung (Länge offen, siehe Offene Punkte)**
+
+| Posten | Betrag |
+|---|---|
+| Grundstipendium (pro Person/Monat) | 500 € |
+| Unterkunft | zu klären (Elblandwerker-Wohnungen, Konditionen offen) |
+| Projektbudget | wird nach Jury-Entscheidung pro Team festgelegt |
+
+Das Projektbudget ergibt sich aus dem Umsetzungsplan der Teams – eine seriöse Schätzung ist erst nach Phase 1 möglich. Gesamtrahmen im LEADER-Beratungsgespräch klären.
+
+---
+
+## 8. Potenzielle Partner
 
 Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind potenzielle Partner – Gespräche stehen teilweise noch aus.
 
 | Partner | Rolle |
 |---|---|
-| **Stadt Wittenberge** | Kooperationspartner, stellt Wohnungen bereit, öffnet Türen zu lokalen Akteuren |
+| **Stadt Wittenberge** | Kooperationspartner, öffnet Türen zu lokalen Akteuren |
 | **WGW** | Wohnungsbaugesellschaft – direkt betroffen von Leerstand und Zuzug |
 | **Elblandwerker** | Betreiben das Community-Wohnungsprogramm, Coworking-Space |
 | **TGZ Prignitz** | Coworking im Zukunftsbahnhof, Gründungsberatung und Anschlussstruktur |
@@ -185,61 +225,6 @@ Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind
 
 ---
 
-## 7. Finanzierungskonzept
-
-**Phase 1 – Sprint (3 Wochen)**
-
-| Posten | Betrag |
-|---|---|
-| Unterkunft (7 Wohnungen × 500 € × 1 Monat, WGW) | 3.500 € |
-| Stipendium (14 Personen × ~650 €) | 9.100 € |
-| **Gesamtbudget** | **12.600 €** |
-| LEADER-Förderung (80%) | 10.080 € |
-| Eigenanteil (20%) | 2.520 € |
-| Eigenanteil gedeckt durch WGW-Mietverzicht | 3.500 € |
-
-**Ergebnis: Phase 1 wäre ohne eigenes Geld finanzierbar** – vorausgesetzt LEADER akzeptiert den WGW-Mietverzicht als Eigenanteil. Im Beratungsgespräch mit LEADER zu klären.
-
-**Phase 2 – Umsetzung (3 Monate)**
-
-- Kein generelles Stipendium
-- Stattdessen: Projektbudget pro Team, aus dem auch eigene Arbeitszeit abgerechnet werden kann
-- Unterkunft: zu klären ob WGW-Wohnungen weiterhin verfügbar und zu welchen Konditionen
-- Finanzierung: LEADER-Antrag pro Projekt, Personalkosten als Teil des Vorhabens förderfähig
-
----
-
-## 8. Erfolgsbild
-
-Das Wittenberge Lab ist erfolgreich, wenn aus dem Sprint konkrete Projekte entstehen, die messbar zur Stadtentwicklung beitragen. Mindestens eines der folgenden Ziele sollte durch Phase 2 erreicht werden:
-
-- **Leerstand sinkt** – mindestens ein Objekt in der Innenstadt wird dauerhaft aktiviert, ein neues Betreibermodell wird umgesetzt
-- **Zuzug stärkt sich** – mindestens ein Team oder einzelne Teilnehmende bleiben dauerhaft in Wittenberge, neue Strukturen zum Bleiben entstehen
-- **Neue Gewerbetreibende** – mindestens ein neues Unternehmen oder Gewerbetreibender siedelt sich in Wittenberge an
-- **Nachhaltiger Tourismus** – neue Angebote entlang des Elberadwegs oder im Biosphärenreservat entstehen, die dauerhaft Besucher anziehen und lokale Wertschöpfung schaffen
-
-Phase 1 ist der Weg dorthin: Teams die nach 3 Wochen einen überzeugenden Umsetzungsplan vorlegen, bekommen die Chance in Phase 2 echte Wirkung zu erzielen.
-
----
-
-## 9. Offene Punkte
-
-## Zeitplan
-
-| Zeitraum | Meilenstein |
-|---|---|
-| **Jetzt – sofort** | Stadtgespräch, Rechtsform, Wohnungskapazität klären |
-| **Q2/Q3 2026** | Partnerverträge, Beratungsgespräch LEADER, Antrag vorbereiten |
-| **04.09.2026** | LEADER-Antrag einreichen (Stichtag 8. Projektauswahlverfahren) |
-| **05.10.2026** | Projektauswahl im Beirat |
-| **Ende 2026** | Bewilligung durch LELF |
-| **Q1 2027** | Rekrutierung Teilnehmende |
-| **April/Mai 2027** | Sprint startet – 3 Wochen während der LAGA (21.04.–24.10.2027) |
-| **Juli 2027** | Jury |
-| **Aug–Okt 2027** | Phase 2 – Umsetzung |
-
----
-
 ## 9. Offene Punkte
 
 Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf → Rekrutierung.**
@@ -247,7 +232,7 @@ Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf 
 **Sofort (Projekt steht oder fällt damit)**
 - Zeitplan festlegen – ohne Datum kein nächster Schritt
 - Abstimmungsgespräch mit Stadt Wittenberge – Wohnungen, Problem Owner, Kooperation
-- Wohnungskapazität auf **6–8 Wohnungen** aufstocken (12–16 Teilnehmende, 4 Teams) – ohne das kein Projekt
+- Wohnungskapazität auf **8 Wohnungen** aufstocken (3 vorhanden, 5 weitere benötigt, 2 Personen pro Wohnung) – ohne das kein Projekt
 - Rechtsform klären – drei Optionen:
   - **e.V. gründen** – höchster LEADER-Fördersatz (80%), Gemeinnützigkeit möglich. Zwei Gründungsmitglieder stehen bereits fest, 5 weitere werden gebraucht – SoP-Alumni oder Elblandwerker-Community als Kandidaten
   - **Stadt Wittenberge als Träger** – spart Gründungsaufwand, Stadt hat Strukturen und bekommt ebenfalls hohe Fördersätze. Guter Gesprächspunkt im Abstimmungsgespräch
@@ -258,9 +243,10 @@ Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf 
 - Partnerschaftsgespräche führen – TGZ, Elblandwerker, Kleinstadtakademie, LAGA
 - Problem Owner pro Thema benennen – kommt aus den Partnerschaftsgesprächen
 - Beratungsgespräch mit LEADER Prignitz führen (Pflicht vor Antragstellung) – Kontakt: info@leader-prignitz.eu / 03876 3078770
-- Fördertopf finanzieren: LEADER eignet sich für Phase 2 (Umsetzung) – nicht für den Sprint selbst, da Projekt erst nach Bewilligung starten darf. Für Phase 1 kurzfristig Eigenkapital oder Kofinanzierungspartner (z.B. Stadt) sichern
+- LEADER-Förderung deckt Phase 1 und Phase 2 – Sprint startet nach Bewilligung (Ende 2026), sodass die Fördervoraussetzung erfüllt ist
+- **Länge Phase 2 klären** – 3 Monate reichen vermutlich nicht damit Projekte eigenständig werden. Im LEADER-Beratungsgespräch klären was förderfähig ist (6 Monate realistischer)
 
 **Später (wenn das Fundament steht)**
-- LEADER-Antrag einreichen (nächste Deadline prüfen: leader-prignitz.eu)
+- LEADER-Antrag einreichen (Stichtag 04.09.2026)
 - Jury zusammenstellen
 - Rekrutierung starten (4–6 Wochen vor Sprint-Beginn)
