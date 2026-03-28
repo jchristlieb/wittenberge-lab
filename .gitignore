@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+.claude/
+praesentation/package-lock.json
+praesentation/package.json
+praesentation/export-pdf.js
