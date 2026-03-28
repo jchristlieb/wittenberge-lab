@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext /Users/janchristlieb/wittenberge-lab/Wittenberge_Lab_Projektskizze.pdf -)",
+      "Bash(open:*)",
+      "Bash(claude plugin:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
