@@ -44,7 +44,7 @@ Das Lab nutzt diesen Moment: Wir wollen kreative Köpfe nach Wittenberge bringen
 
 ## 2. Konzept
 
-Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden werden mit konkreten Stadtentwicklungsproblemen konfrontiert und entwickeln eigeninitiativ Konzepte und Prototypen. Der Ansatz ist bewusst offen und selbstorganisiert – mit optionaler Unterstützung durch den Initiator.
+Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden werden mit konkreten Stadtentwicklungsproblemen konfrontiert und entwickeln eigeninitiativ Konzepte und Prototypen. Der Ansatz ist bewusst offen und selbstorganisiert – mit optionaler Unterstützung durch das Lab-Team.
 
 Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
 
@@ -65,7 +65,7 @@ Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das gr
 Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
 
 **Phase 1 – 3 Wochen (Konzept & Prototyping)**
-Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. Gruppen bilden sich organisch (voraussichtlich 2–3 Teams). Wöchentlicher gemeinsamer Check-in. Initiator bietet Guidance, Feedback und Kontakte auf Anfrage an.
+Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. Gruppen bilden sich organisch (voraussichtlich 2–3 Teams). Teams organisieren sich selbst. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
 
 **Jury – Ende Woche 3**
 Teams präsentieren ihre Projekte vor der Jury. Jury aus lokalen Stadtakteuren bewertet Potenzial und Umsetzbarkeit. Entscheidung: Welche Projekte gehen in die Umsetzungsphase?
@@ -77,14 +77,24 @@ Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch
 
 ## 4. Zielgruppe
 
-Das Wittenberge Lab richtet sich an Menschen, die:
+Das Wittenberge Lab braucht eine Mischung aus vier Typen – bewusst keine Einschränkung auf Digitalarbeiter:innen wie beim ursprünglichen Summer of Pioneers.
 
-- Forscher:innen, Studierende oder Menschen in einer persönlichen/beruflichen Umbruchsituation sind
-- Ortsunabhängig arbeiten und mindestens 20 Stunden pro Woche in das Projekt investieren können
-- Intrinsisch motiviert sind, konkrete Probleme anzugehen
-- Bereit sind, 3 Wochen in Wittenberge zu leben
+**Macher & Umsetzer**
+Handwerker, Bauleute, Projektmanager – Menschen die wissen wie man Dinge physisch realisiert, Kosten einschätzt und Projekte ins Laufen bringt.
 
-Bewusst keine Einschränkung auf reine Digitalarbeiter:innen – die Mischung aus unterschiedlichen Hintergründen ist Programm.
+**Denker & Konzeptierer**
+Stadtplaner, Sozialunternehmer, Forscher – Menschen die Probleme tief durchdringen und neue Modelle entwickeln.
+
+**Verbinder & Kommunikatoren**
+Community-Builder, Journalisten, Netzwerker – Menschen die Strukturen aktivieren, Sichtbarkeit schaffen und Brücken bauen.
+
+**Finanzierungs- & Förderexperten**
+Menschen mit Erfahrung in Förderprogrammen (LEADER, Städtebauförderung, EU-Töpfe), Crowdfunding oder Stiftungsfinanzierung – die wissen wo Geld für Stadtentwicklung herkommt.
+
+Alle Typen verbindet:
+- Flexibilität für 3 Wochen vor Ort (Sabbatical, Studium, Selbstständigkeit, Elternzeit, Karriere-Transition)
+- Intrinsische Motivation, konkrete Probleme anzugehen
+- Eigeninitiative – kein Warten auf Aufgaben
 
 ---
 
