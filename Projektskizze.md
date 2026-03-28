@@ -92,7 +92,8 @@ Community-Builder, Journalisten, Netzwerker – Menschen die Strukturen aktivier
 Menschen mit Erfahrung in Förderprogrammen (LEADER, Städtebauförderung, EU-Töpfe), Crowdfunding oder Stiftungsfinanzierung – die wissen wo Geld für Stadtentwicklung herkommt.
 
 Alle Typen verbindet:
-- Flexibilität für 3 Wochen vor Ort (Sabbatical, Studium, Selbstständigkeit, Elternzeit, Karriere-Transition)
+- Flexibilität für 3 Wochen vor Ort (Sabbatical, Studium, Selbstständigkeit, Remote- oder Hybrid-Arbeit, Elternzeit, Karriere-Transition)
+- Mindestens 20 Stunden pro Woche für das Projekt verfügbar
 - Intrinsische Motivation, konkrete Probleme anzugehen
 - Eigeninitiative – kein Warten auf Aufgaben
 
@@ -100,7 +101,7 @@ Alle Typen verbindet:
 
 ## 5. Fokusthemen
 
-Die Teilnehmenden erhalten am Onboarding-Tag einen strukturierten, datengestützten Überblick über drei konkrete Herausforderungen der Stadt. Diese decken sich direkt mit den Schwerpunktthemen der Kleinstadtakademie (Innenstadtbelebung, Wohnen, Zukunftsfähigkeit).
+Die Teilnehmenden erhalten am Onboarding-Tag einen strukturierten, datengestützten Überblick über drei konkrete Herausforderungen der Stadt. Diese decken sich direkt mit den Schwerpunktthemen der Kleinstadtakademie (Innenstadtbelebung, Wohnen, Zukunftsfähigkeit). Jedes Thema erhält einen konkreten Problem Owner – eine lokale Ansprechperson, die den Teams als Sparringspartner zur Verfügung steht.
 
 ### Thema 1: Leerstand in der Innenstadt
 
@@ -113,7 +114,6 @@ Anknüpfungspunkte für Teams:
 - Pop-Up-Konzepte, die langfristige Nutzungen vorbereiten
 - Konzepte für Gastronomie und Kultur ohne hohe Vorabinvestitionen
 
-*Ansprechperson: Jens Knauer, Leerstandsmanager der Stadt Wittenberge*
 
 ### Thema 2: Zuzug verstetigen
 
@@ -124,7 +124,6 @@ Anknüpfungspunkte für Teams:
 - Welche sozialen Infrastrukturen und Community-Angebote sind entscheidend?
 - Wie kann Wittenberge seine Lage zwischen Berlin und Hamburg (ICE-Anbindung) besser als Standortvorteil kommunizieren?
 
-*Ansprechpersonen: Elblandwerker, WGW*
 
 ### Thema 3: LAGA 2027 als Hebel
 
@@ -134,26 +133,42 @@ Anknüpfungspunkte für Teams:
 - Welche dauerhaften Strukturen können im Rahmen der LAGA aufgebaut werden?
 - Wie können Besucher zu Interessenten und Interessenten zu Zuzüglern werden?
 
-*Ansprechperson: LAGA-Geschäftsführung*
 
 ---
 
-## 6. Partner & Infrastruktur
+## 6. Potenzielle Partner
+
+Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind potenzielle Partner – Gespräche stehen teilweise noch aus.
 
 | Partner | Rolle |
 |---|---|
 | **Stadt Wittenberge** | Kooperationspartner, stellt Wohnungen bereit, öffnet Türen zu lokalen Akteuren |
+| **WGW** | Wohnungsbaugesellschaft – direkt betroffen von Leerstand und Zuzug |
 | **Elblandwerker** | Betreiben das Community-Wohnungsprogramm, Coworking-Space |
 | **TGZ Prignitz** | Coworking im Zukunftsbahnhof, Gründungsberatung und Anschlussstruktur |
 | **Kleinstadtakademie** | Jury, bundesweite Einordnung und Sichtbarkeit der Ergebnisse |
+| **LAGA-Geschäftsführung** | Problem Owner für Thema 3, Zugang zu Netzwerken rund um die Landesgartenschau |
+| **Medienpartner (z.B. MAZ)** | Begleitung des Projekts, Sichtbarkeit bei Rekrutierung und Abschlusspräsentation |
+| **Hochschulen** | Rekrutierungskanal für Teilnehmende (Stadtplanung, Architektur, Sozialwissenschaften) |
+| **Stiftungen** | Potenzielle Finanzierungsquelle für den Fördertopf |
 
 ---
 
 ## 7. Offene Punkte
 
+Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf → Rekrutierung.**
+
+**Sofort (Projekt steht oder fällt damit)**
+- Zeitplan festlegen – ohne Datum kein nächster Schritt
+- Abstimmungsgespräch mit Stadt Wittenberge – Wohnungen, Problem Owner, Kooperation
 - Wohnungskapazität auf 10 aufstocken – ohne das kein Projekt
-- Abstimmungsgespräch mit Stadt Wittenberge
-- Stadtprobleme gemeinsam mit Stadt konkretisieren
+
+**Danach (aufbauend auf den ersten drei)**
+- Partnerschaftsgespräche führen – TGZ, Elblandwerker, Kleinstadtakademie, LAGA
+- Problem Owner pro Thema benennen – kommt aus den Partnerschaftsgesprächen
+- Fördertopf (~10.000 €) finanzieren – LEADER-Programm, Stiftungen, Partnerkofinanzierung prüfen
+
+**Später (wenn das Fundament steht)**
 - Jury zusammenstellen
-- Fördertopf (~10.000 €) finanzieren – LEADER-Programm oder Partnerbeiträge prüfen
 - Rekrutierung starten (4–6 Wochen vor Sprint-Beginn)
+- Rechtsform klären – braucht das Lab eine eigene Struktur (Verein, GbR) oder läuft es unter dem Namen des Initiators?
