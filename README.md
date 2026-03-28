@@ -9,10 +9,9 @@ Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge – mi
 Das Lab nutzt ein einmaliges Zeitfenster: Die Landesgartenschau 2027 bringt Aufmerksamkeit und Investitionen, der Zukunftsbahnhof ist im Entstehen, die Kleinstadtakademie ist vor Ort. Die Voraussetzungen für externen Impuls waren selten besser.
 
 **Ziele:**
-- Leerstand in der Innenstadt aktivieren – neue Betreibermodelle, neue Nutzungen
+- Leerstand aktivieren – neue Betreibermodelle und Nutzungen für schwierige Objekte
 - Zuzug stärken – Strukturen schaffen die Menschen zum Bleiben bewegen
-- Neue Gewerbetreibende und Unternehmen nach Wittenberge bringen
-- Nachhaltigen Tourismus entlang des Elberadwegs und im Biosphärenreservat ausbauen
+- LAGA-Momentum nutzen – dauerhafte Strukturen für Tourismus und Stadtleben schaffen, die über 2027 hinaus tragen
 
 Das Lab ist kein Förderprogramm und kein Workshop. Es ist ein Accelerator für Stadtentwicklung durch Eigeninitiative – finanziert über LEADER, getragen von lokalen Partnern, initiiert von den Elblandwerkern.
 
