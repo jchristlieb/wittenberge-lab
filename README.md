@@ -2,6 +2,21 @@
 
 **Stadtentwicklung durch Eigeninitiative**
 
+## Inhalt
+
+1. [Ausgangslage](#1-ausgangslage)
+2. [Konzept](#2-konzept)
+3. [Ablauf](#3-ablauf)
+4. [Zielgruppe](#4-zielgruppe)
+5. [Fokusthemen](#5-fokusthemen)
+6. [Potenzielle Partner](#6-potenzielle-partner)
+7. [Finanzierungskonzept](#7-finanzierungskonzept)
+8. [Erfolgsbild](#8-erfolgsbild)
+9. [Zeitplan](#zeitplan)
+10. [Offene Punkte](#9-offene-punkte)
+
+---
+
 | | |
 |---|---|
 | **Ort** | Wittenberge, Brandenburg |
