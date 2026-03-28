@@ -162,7 +162,11 @@ Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf 
 - Zeitplan festlegen – ohne Datum kein nächster Schritt
 - Abstimmungsgespräch mit Stadt Wittenberge – Wohnungen, Problem Owner, Kooperation
 - Wohnungskapazität auf 10 aufstocken – ohne das kein Projekt
-- Rechtsform klären – ein gemeinnütziger Verein ist dringend empfohlen: höchster LEADER-Fördersatz (80%), Personalkosten förderfähig, saubere Struktur für Partnerschaften
+- Rechtsform klären – drei Optionen:
+  - **e.V. gründen** – höchster LEADER-Fördersatz (80%), Gemeinnützigkeit möglich. Zwei Gründungsmitglieder stehen bereits fest, 5 weitere werden gebraucht – SoP-Alumni oder Elblandwerker-Community als Kandidaten
+  - **Stadt Wittenberge als Träger** – spart Gründungsaufwand, Stadt hat Strukturen und bekommt ebenfalls hohe Fördersätze. Guter Gesprächspunkt im Abstimmungsgespräch
+  - **Privatperson** – schnellste Option, aber nur 50% LEADER-Fördersatz, keine Gemeinnützigkeit, schwieriger für Partnerschaften
+  - Empfehlung: Option 1 oder 2 im Abstimmungsgespräch mit der Stadt klären
 
 **Danach (aufbauend auf den ersten drei)**
 - Partnerschaftsgespräche führen – TGZ, Elblandwerker, Kleinstadtakademie, LAGA
