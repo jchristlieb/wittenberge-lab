@@ -25,7 +25,7 @@ Das Wittenberge Lab ist ein Stadtentwicklungsprojekt, das ca. 10 Menschen für e
 
 - **Wohnen:** Probewohnen-Programm der Stadt (kostenlos), aktuell 5–6 Plätze, Aufstockung auf 10 angestrebt
 - **Coworking:** Elblandwerker-Space oder TGZ im Bahnhof Wittenberge
-- **Fördertopf:** 10.000 € vom Initiator, niedrigschwellig abrufbar
+- **Fördertopf:** ~10.000 € angestrebt, Finanzierung noch offen – mögliche Quellen: LEADER-Programm, Partnerbeiträge, Förderanträge. Kein gesichertes Budget bisher.
 - **Format:** Wöchentlicher Check-in, Initiator gibt Guidance/Feedback/Kontakte auf Anfrage
 
 ## Wichtige Stakeholder
@@ -40,6 +40,7 @@ Das Wittenberge Lab ist ein Stadtentwicklungsprojekt, das ca. 10 Menschen für e
 ## Kritische Abhängigkeiten & offene Punkte
 
 - Wohnungskapazität auf 10 aufstocken – ohne das kein Projekt
+- Fördertopf (~10.000 €) finanzieren – LEADER oder andere Quellen prüfen
 - Abstimmungsgespräch mit Stadt Wittenberge steht noch aus
 - Stadtprobleme gemeinsam mit Stadt konkretisieren
 - Jury zusammenstellen (Stadtverwaltung, Elblandwerker, TGZ, WGW, lokale Unternehmer)

@@ -225,6 +225,16 @@
       margin-top: 1px;
     }
 
+    /* ---- AGENDA HOVER ---- */
+    .agenda-item {
+      transition: border-color 0.2s, background 0.2s;
+      cursor: default;
+    }
+    .agenda-item:hover {
+      border-color: var(--accent);
+      background: var(--surface2);
+    }
+
     /* ---- QUOTE ---- */
     .quote {
       border-left: 3px solid var(--accent);
@@ -247,343 +257,140 @@
   <div class="slide active" id="s1">
     <div class="center stack max" style="gap:28px; align-items:center;">
       <div class="label">Projektvorstellung</div>
-      <h1>Wittenberge<br><span class="accent">Lab</span></h1>
+      <h1>Wittenberge <span class="accent">Lab</span></h1>
       <div class="divider"></div>
       <p class="hero-sub" style="max-width:520px;">
-        Selbstorganisierte Teams aus verschiedenen Disziplinen arbeiten an konkreten
-        Problemen der Stadtentwicklung – in Kooperation mit lokalen Partnern.
+        Keine Studie. Kein Workshop. 10 Menschen ziehen nach Wittenberge – und lösen echte Stadtprobleme.
       </p>
-      <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:8px;">
-        <span class="tag a">Wittenberge, Brandenburg</span>
-        <span class="tag">~10 Teilnehmende</span>
-        <span class="tag">Frühjahr 2026</span>
-        <span class="tag a">Privater Initiator</span>
+      <div style="margin-top:20px; display:flex; gap:32px; align-items:center;">
+        <div style="text-align:center;">
+          <div style="font-size:1.5rem; font-weight:800; color:var(--accent);">3</div>
+          <div style="font-size:0.75rem; color:var(--muted); letter-spacing:0.08em; text-transform:uppercase;">Wochen</div>
+        </div>
+        <div style="width:1px; height:32px; background:var(--border);"></div>
+        <div style="text-align:center;">
+          <div style="font-size:1.5rem; font-weight:800; color:var(--accent);">10</div>
+          <div style="font-size:0.75rem; color:var(--muted); letter-spacing:0.08em; text-transform:uppercase;">Menschen</div>
+        </div>
+        <div style="width:1px; height:32px; background:var(--border);"></div>
+        <div style="text-align:center;">
+          <div style="font-size:1.5rem; font-weight:800; color:var(--accent);">3</div>
+          <div style="font-size:0.75rem; color:var(--muted); letter-spacing:0.08em; text-transform:uppercase;">Stadtprobleme</div>
+        </div>
       </div>
     </div>
   </div>
 
   <!-- 2. AUSGANGSLAGE -->
-  <div class="slide" id="s2">
+  <div class="slide" id="s3">
     <div class="stack full" style="max-width:900px; gap:32px;">
       <div>
         <div class="label">Ausgangslage</div>
-        <h2>Wittenberge hat bewiesen, dass<br><span class="accent">externer Impuls wirkt.</span></h2>
+        <h2>Die Voraussetzungen waren <span class="accent">selten besser.</span></h2>
       </div>
       <div class="row">
-        <div class="card col" style="gap:16px; text-align:center;">
-          <div class="stat"><div class="num">&gt;50 %</div><div class="desc">der Summer-of-Pioneers-Teilnehmenden blieben in der Stadt</div></div>
+        <div class="card col agenda-item" style="gap:12px;">
+          <div style="font-size:1.5rem;">🏙</div>
+          <h3>Summer of Pioneers</h3>
+          <p>Externer Impuls, der wirkte: Menschen kamen, blieben, gründeten. Der Stadtsalon und die Elblandwerker-Community entstanden – und existieren bis heute.</p>
         </div>
-        <div class="card col" style="gap:16px; text-align:center;">
-          <div class="stat"><div class="num">Mio. €</div><div class="desc">Folgeförderung durch das SoP-Programm ausgelöst</div></div>
+        <div class="card col agenda-item" style="gap:12px;">
+          <div style="font-size:1.5rem;">🚂</div>
+          <h3>Neues Momentum</h3>
+          <p>Der Zukunftsbahnhof als neues Tor zur Stadt. Wir sind Standort der ersten Kleinstadtakademie Deutschlands.</p>
         </div>
-        <div class="card col" style="gap:16px; text-align:center;">
-          <div class="stat"><div class="num">2027</div><div class="desc">Landesgartenschau Brandenburg – seltenes Zeitfenster</div></div>
+        <div class="card col agenda-item" style="gap:12px;">
+          <div style="font-size:1.5rem;">🌿</div>
+          <h3>Landesgartenschau</h3>
+          <p>Bis zu 500.000 Besucher, Investitionen, Sichtbarkeit für die Region. Ein Zeitfenster, das sich so schnell nicht wiederholt.</p>
         </div>
       </div>
-      <div class="quote">
-        „Wittenberge wurde 2024 Standort der ersten Kleinstadtakademie Deutschlands
-        – und richtet 2027 die Landesgartenschau aus."
+      <div style="background:var(--surface); border:1px solid var(--accent); border-radius:12px; padding:24px 28px; text-align:center;">
+        <p style="color:var(--text); font-size:clamp(0.95rem, 1.8vw, 1.1rem); line-height:1.7;">
+          Das Lab nutzt diesen Moment: Wir wollen <span style="color:var(--accent); font-weight:600;">kreative Köpfe nach Wittenberge bringen</span>,<br>echte Probleme lösen, <span style="color:var(--accent); font-weight:600;">Wirkung erzielen</span>.
+        </p>
       </div>
     </div>
   </div>
 
-  <!-- 3. DREI STADTPROBLEME -->
+  <!-- 3. DAS KONZEPT -->
   <div class="slide" id="s3">
-    <div class="stack full" style="max-width:900px; gap:28px;">
-      <div>
-        <div class="label">Fokusthemen</div>
-        <h2>Drei konkrete <span class="accent">Herausforderungen</span> als Ausgangspunkt</h2>
-      </div>
-      <div class="row" style="align-items:stretch;">
-        <div class="card col highlight" style="gap:10px;">
-          <h3>🏗 Leerstand</h3>
-          <p><strong style="color:var(--accent);">21,5 %</strong> Leerstandsquote in der Innenstadt (2022). Neue Betreibermodelle und Finanzierungsstrukturen für schwierige Objekte gesucht.</p>
-        </div>
-        <div class="card col highlight" style="gap:10px;">
-          <h3>👥 Zuzug verstetigen</h3>
-          <p>Positives Wanderungssaldo – aber leichte Schrumpfung bis 2030 prognostiziert. Junge Menschen und Familien brauchen Strukturen zum <strong style="color:var(--accent);">Bleiben</strong>.</p>
-        </div>
-        <div class="card col highlight" style="gap:10px;">
-          <h3>🌿 LAGA 2027</h3>
-          <p>Die Landesgartenschau bringt Aufmerksamkeit und Investitionen. Die entscheidende Frage: <strong style="color:var(--accent);">Was bleibt danach?</strong></p>
-        </div>
-      </div>
-      <p class="center" style="font-size:0.9rem;">Alle drei Themen decken sich direkt mit den Schwerpunkten der Kleinstadtakademie.</p>
-    </div>
-  </div>
-
-  <!-- 4. DAS KONZEPT -->
-  <div class="slide" id="s4">
-    <div class="stack full" style="max-width:900px; gap:28px;">
+    <div class="stack full" style="max-width:860px; gap:28px;">
       <div>
         <div class="label">Das Konzept</div>
-        <h2>Eigeninitiative, <span class="accent">fokussiert</span> und ergebnisorientiert</h2>
+        <h2>3 Wochen. 10 Menschen. <span class="accent">Echte Probleme.</span></h2>
       </div>
-      <div class="row">
-        <div class="col" style="gap:16px;">
-          <div class="card" style="gap:10px; flex:1;">
-            <h3>Sprint-Format</h3>
-            <p>Ca. 10 Personen leben und arbeiten 6 Wochen in Wittenberge. Sie erhalten konkrete Stadtprobleme als Ausgangspunkt und entwickeln eigeninitiativ Lösungsansätze.</p>
-          </div>
-          <div class="card" style="gap:10px; flex:1;">
-            <h3>Diverse Gruppe</h3>
-            <p>Forscher:innen, Studierende, Remote-Worker, Menschen in Umbruchsituationen. Bewusst kein Filter auf Digitalarbeiter:innen – die Mischung ist Programm.</p>
-          </div>
-        </div>
-        <div class="col" style="gap:16px;">
-          <div class="card" style="gap:10px; flex:1;">
-            <h3>Jury-Entscheidung</h3>
-            <p>Am Ende von Woche 6 präsentieren Teams ihre Projekte einer Jury aus lokalen Akteuren. Die stärksten Konzepte gehen in eine 3-monatige Vertiefungsphase.</p>
-          </div>
-          <div class="card highlight" style="gap:10px; flex:1;">
-            <h3>10.000 € Fördertopf</h3>
-            <p>Niedrigschwellig abrufbar – für Materialien, kleine Umbauten, Prototypen. Kein aufwendiger Antragsprozess.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 5. TIMELINE -->
-  <div class="slide" id="s5">
-    <div class="stack full" style="max-width:960px; gap:36px;">
-      <div class="center">
-        <div class="label">Ablauf</div>
-        <h2>Von der <span class="accent">Vorbereitung</span> zur Umsetzung</h2>
-      </div>
-      <div class="timeline">
-        <div class="tl-item">
-          <div class="tl-label">Phase 0</div>
-          <div class="tl-dot"></div>
-          <div class="tl-title">Vorbereitung</div>
-          <div class="tl-desc">Stadtprobleme aufbereiten, Jury und Teilnehmende gewinnen, Unterkunft sichern</div>
-        </div>
-        <div class="tl-item">
-          <div class="tl-label">6 Wochen</div>
-          <div class="tl-dot"></div>
-          <div class="tl-title">Sprint</div>
-          <div class="tl-desc">Teilnehmende leben & arbeiten vor Ort, Gruppen bilden sich organisch, wöchentlicher Check-in</div>
-        </div>
-        <div class="tl-item">
-          <div class="tl-label">Woche 6</div>
-          <div class="tl-dot"></div>
-          <div class="tl-title">Jury & Öffentlichkeit</div>
-          <div class="tl-desc">Öffentliche Abschlusspräsentation, Jury entscheidet über Vertiefungsphase</div>
-        </div>
-        <div class="tl-item">
-          <div class="tl-label">3 Monate</div>
-          <div class="tl-dot"></div>
-          <div class="tl-title">Vertiefung</div>
-          <div class="tl-desc">Ausgewählte Teams bleiben – konkrete Projektumsetzung vor Ort</div>
-        </div>
-      </div>
-      <div class="card center" style="max-width:600px; margin:0 auto;">
-        <p><strong style="color:var(--text);">Infrastruktur:</strong> Probewohnen der Stadt (kostenlos) · Elblandwerker-Space oder TGZ Bahnhof · 10.000 € Fördertopf</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- 6. PARTNER: KLEINSTADTAKADEMIE -->
-  <div class="slide" id="s6">
-    <div class="stack full" style="max-width:860px; gap:28px;">
-      <div>
-        <div class="partner-badge" style="display:inline-flex;">
-          <span class="icon">🏛</span>
-          <span>Kleinstadtakademie Wittenberge</span>
-        </div>
-      </div>
-      <h2>Wittenberge als <span class="accent">nationales Praxislabor</span></h2>
-      <div class="row">
-        <div class="card col" style="gap:12px;">
-          <h3>Was das Lab der Akademie bietet</h3>
-          <ul class="custom">
-            <li>Echte Praxisbeispiele für Leerstand, Zuzug und Stadtumbau – direkt aus Wittenberge</li>
-            <li>Ergebnisse, die in das bundesweite Netzwerk von <strong style="color:var(--text);">2.100 Kleinstädten</strong> einfließen können</li>
-            <li>Gemeinsame öffentliche Abschlussveranstaltung mit bundesweiter Sichtbarkeit</li>
-            <li>Beobachter- oder Jurymitglied-Rolle – Einblick in innovative Stadtentwicklungsansätze</li>
-          </ul>
-        </div>
-        <div class="card col highlight" style="gap:12px;">
-          <h3>Konkrete Kooperation</h3>
-          <ul class="custom">
-            <li>Kleinstadtakademie als <strong style="color:var(--text);">Jurymitglied</strong> in Woche 6</li>
-            <li>Projektergebnisse als Fallstudien für den Kleinstadtkongress</li>
-            <li>Gemeinsame Kommunikation erhöht Förder- und Sichtbarkeitschancen</li>
-          </ul>
-          <div style="margin-top:8px;">
-            <span class="tag b">Kontakt: Siw Foge, Perleberger Str. 165</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 7. PARTNER: STADT WITTENBERGE -->
-  <div class="slide" id="s7">
-    <div class="stack full" style="max-width:860px; gap:28px;">
-      <div>
-        <div class="partner-badge" style="display:inline-flex;">
-          <span class="icon">🏙</span>
-          <span>Stadt Wittenberge</span>
-        </div>
-      </div>
-      <h2>Das Lab adressiert <span class="accent">direkt eure Herausforderungen</span></h2>
-      <div class="row">
-        <div class="card col" style="gap:12px;">
-          <h3>Was die Stadt einbringt</h3>
-          <ul class="custom">
-            <li>Wohnungen über das Probewohnen-Programm (kostenlos für Teilnehmende)</li>
-            <li>Daten, Ansprechpersonen und Hintergrundmaterial zu den drei Fokusthemen</li>
-            <li>Netzwerkkontakte zu lokalen Akteuren und Eigentümern</li>
-            <li>„Problem Owner" pro Thema – direkte Verbindlichkeit für Teams</li>
-          </ul>
-        </div>
-        <div class="card col highlight" style="gap:12px;">
-          <h3>Was die Stadt gewinnt</h3>
-          <ul class="custom">
-            <li>Externe, frische Perspektiven auf Leerstand, Zuzug, LAGA-Nachhaltigkeit</li>
-            <li>Potenzielle neue Bewohner:innen – wie beim Summer of Pioneers</li>
-            <li>Konkrete, umsetzungsreife Projektkonzepte nach 3 Monaten</li>
-            <li>Grundlage für weitere Förderprogramme und Investitionen</li>
-            <li>Sichtbarkeit als innovativer Stadtentwicklungsstandort</li>
-          </ul>
-        </div>
-      </div>
-      <p class="center" style="font-size:0.85rem;">Ansprechpersonen aus der Stadt: Jens Knauer (Leerstand), WGW (Wohnen), LAGA-Geschäftsführung (2027)</p>
-    </div>
-  </div>
-
-  <!-- 8. PARTNER: TGZ -->
-  <div class="slide" id="s8">
-    <div class="stack full" style="max-width:860px; gap:28px;">
-      <div>
-        <div class="partner-badge" style="display:inline-flex;">
-          <span class="icon">🚀</span>
-          <span>TGZ Prignitz – Technologie- & Gründerzentrum</span>
-        </div>
-      </div>
-      <h2>Das Lab als <span class="accent">Gründungsinkubator</span> der Region</h2>
-      <div class="row">
-        <div class="card col" style="gap:12px;">
-          <h3>Warum das TGZ passt</h3>
-          <ul class="custom">
-            <li>Der Coworking-Space im Bahnhof ist die natürliche Arbeitsumgebung für Lab-Teams</li>
-            <li>Teams mit unternehmerischen Ideen brauchen nach dem Sprint genau das, was das TGZ bietet: Räume, Beratung, Netzwerk</li>
-            <li>Aus realen Stadtproblemen entstehen reale Geschäftsmodelle – kein akademischer Kontext, sondern Praxis</li>
-          </ul>
-        </div>
-        <div class="card col highlight" style="gap:12px;">
-          <h3>Konkrete Rolle des TGZ</h3>
-          <ul class="custom">
-            <li><strong style="color:var(--text);">Coworking-Partner</strong> während des 6-wöchigen Sprints</li>
-            <li><strong style="color:var(--text);">Jurymitglied</strong> mit dem Fokus: „Welches Projekt hat Gründungspotenzial?"</li>
-            <li><strong style="color:var(--text);">Anschlussstruktur</strong> für Teams in der Vertiefungsphase – Begleitung, Büroräume, Beratung</li>
-            <li>Möglichkeit, Lab-Ausgründungen als erste Mieter im TGZ zu gewinnen</li>
-          </ul>
-        </div>
-      </div>
-      <div class="card center" style="border-color:var(--accent2);">
-        <p><span class="accent2">Szenario:</span> Ein Lab-Team entwickelt ein Betreibermodell für Leerstandsobjekte – und gründet danach ein Unternehmen, das das TGZ als ersten Kunden gewinnt.</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- 9. PARTNER: MAZ -->
-  <div class="slide" id="s9">
-    <div class="stack full" style="max-width:860px; gap:28px;">
-      <div>
-        <div class="partner-badge" style="display:inline-flex;">
-          <span class="icon">📰</span>
-          <span>MAZ – Märkische Allgemeine Zeitung</span>
-        </div>
-      </div>
-      <h2>Eine Geschichte, die <span class="accent">erzählt werden will</span></h2>
-      <div class="row">
-        <div class="card col" style="gap:12px;">
-          <h3>Was das Lab bietet</h3>
-          <ul class="custom">
-            <li>Eine echte menschliche Geschichte – 10 fremde Menschen, eine Stadt, 6 Wochen</li>
-            <li>Wöchentliche Entwicklungen, Rückschläge, Durchbrüche: <strong style="color:var(--text);">natürlicher Serialstoff</strong></li>
-            <li>Abschlusspräsentation als öffentliches Event – pressewirksam</li>
-            <li>Anknüpfungspunkt an LAGA 2027 und bundesweites Kleinstadtthema</li>
-          </ul>
-        </div>
-        <div class="card col highlight" style="gap:12px;">
-          <h3>Konkrete Kooperation</h3>
-          <ul class="custom">
-            <li><strong style="color:var(--text);">Medienpartner</strong> des Projekts – begleitet von Phase 0 bis Abschlusspräsentation</li>
-            <li>Exklusiver Zugang zu Teams und Prozessen während des Sprints</li>
-            <li>Gemeinsame Kommunikation für mehr Sichtbarkeit bei der Teilnehmerrekrutierung</li>
-            <li>Dokumentation als regionales Leuchtturmprojekt</li>
-          </ul>
-        </div>
-      </div>
-      <div class="quote">
-        „Summer of Pioneers hat einen Großteil seiner Wirkung aus medialer Aufmerksamkeit gezogen."
-      </div>
-    </div>
-  </div>
-
-  <!-- 10. WIRKUNG -->
-  <div class="slide" id="s10">
-    <div class="stack full" style="max-width:860px; gap:28px;">
-      <div class="center">
-        <div class="label">Erwartete Wirkung</div>
-        <h2>Was das Lab <span class="accent">konkret erreichen</span> soll</h2>
-      </div>
-      <div class="row">
-        <div class="card col" style="gap:8px; text-align:center;">
+      <div class="row" style="margin-bottom:12px;">
+        <div class="card col agenda-item" style="gap:10px; text-align:center;">
           <div style="font-size:2rem;">🏠</div>
-          <h3>Neue Nutzer für Leerstand</h3>
-          <p>Umsetzungsreife Konzepte für schwierige Leerstandsobjekte</p>
+          <h3>Leben vor Ort</h3>
+          <p>Teilnehmende wohnen in den Community-Wohnungen der Elblandwerker – möbliert, sofort beziehbar, kostenlos.</p>
         </div>
-        <div class="card col" style="gap:8px; text-align:center;">
-          <div style="font-size:2rem;">👨‍👩‍👧</div>
-          <h3>Neue Bewohner:innen</h3>
-          <p>Potenzielle Zuzügler, die Wittenberge als Heimat entdecken</p>
-        </div>
-        <div class="card col" style="gap:8px; text-align:center;">
-          <div style="font-size:2rem;">💡</div>
-          <h3>Gründungspotenzial</h3>
-          <p>Neue Unternehmen aus realen Stadtproblemen heraus</p>
-        </div>
-        <div class="card col" style="gap:8px; text-align:center;">
-          <div style="font-size:2rem;">🌍</div>
-          <h3>Überregionale Sichtbarkeit</h3>
-          <p>Wittenberge als Modell für 2.100 Kleinstädte in Deutschland</p>
+        <div class="card col agenda-item" style="gap:10px; text-align:center;">
+          <div style="font-size:2rem;">🛠</div>
+          <h3>Echte Probleme</h3>
+          <p>Leerstand, Zuzug, LAGA-Nachhaltigkeit – konkrete Themen, keine Fallstudien.</p>
         </div>
       </div>
-      <div class="card highlight center">
-        <p>Das Wittenberge Lab ist kein Experiment – es baut auf einer <strong style="color:var(--text);">bewiesenen Formel</strong> auf und macht sie fokussierter.</p>
+      <div class="row">
+        <div class="card col agenda-item" style="gap:10px; text-align:center;">
+          <div style="font-size:1.1rem; font-weight:800; color:var(--accent);">Phase 1 · 3 Wochen</div>
+          <h3>Konzept & Prototyping</h3>
+          <p>Teams entwickeln eigeninitiativ Lösungsansätze. Am Ende: Jury aus lokalen Akteuren.</p>
+        </div>
+        <div class="card col agenda-item" style="gap:10px; text-align:center;">
+          <div style="font-size:1.1rem; font-weight:800; color:var(--accent);">Phase 2 · 3 Monate</div>
+          <h3>Konkrete Umsetzung</h3>
+          <p>Die stärksten Ideen werden realisiert – mit Unterstützung lokaler Partner vor Ort.</p>
+        </div>
       </div>
     </div>
   </div>
 
-  <!-- 11. NÄCHSTE SCHRITTE -->
-  <div class="slide" id="s11">
-    <div class="stack full" style="max-width:720px; gap:32px; align-items:center;">
+  <!-- 4. WAS WIR SUCHEN -->
+  <div class="slide" id="s4">
+    <div class="stack full" style="max-width:760px; gap:32px; align-items:center;">
       <div class="center">
-        <div class="label">Jetzt</div>
-        <h2>Nächste Schritte zur <span class="accent">Partnerschaft</span></h2>
+        <div class="label">Partner</div>
+        <h2>Wir suchen <span class="accent">Mitgestalter</span> – keine Sponsoren</h2>
       </div>
       <div class="stack full" style="gap:12px;">
-        <div class="card row" style="align-items:center; gap:16px;">
-          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">📅</div>
-          <div><h3>Abstimmungsgespräch</h3><p>Gemeinsam klären: Wohnungskapazität, Stadtprobleme konkretisieren, Zeitplan festlegen</p></div>
+        <div class="card row agenda-item" style="align-items:center; gap:20px;">
+          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">🏙</div>
+          <div><h3>Stadt & lokale Akteure</h3><p>Stadtprobleme einbringen, Wohnraum bereitstellen, Türen öffnen</p></div>
         </div>
-        <div class="card row" style="align-items:center; gap:16px;">
-          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">🤝</div>
-          <div><h3>Partnerrolle definieren</h3><p>Was kann jeder Partner konkret einbringen? Was bekommt er dafür?</p></div>
+        <div class="card row agenda-item" style="align-items:center; gap:20px;">
+          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">🚀</div>
+          <div><h3>Coworking & Gründungsstruktur</h3><p>Arbeitsraum während des Sprints, Anschluss für starke Ideen danach</p></div>
         </div>
-        <div class="card row" style="align-items:center; gap:16px;">
-          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">📢</div>
-          <div><h3>Gemeinsam rekrutieren</h3><p>Mit vereinten Netzwerken die richtigen 10 Menschen für Wittenberge finden</p></div>
+        <div class="card row agenda-item" style="align-items:center; gap:20px;">
+          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">🏛</div>
+          <div><h3>Wissen & Netzwerk</h3><p>Einordnung, Jury-Rolle, Weitertragen der Ergebnisse</p></div>
+        </div>
+        <div class="card row agenda-item" style="align-items:center; gap:20px;">
+          <div style="font-size:1.5rem; width:40px; text-align:center; flex-shrink:0;">📰</div>
+          <div><h3>Medien & Sichtbarkeit</h3><p>Die Geschichte begleiten – von Beginn bis Abschlusspräsentation</p></div>
         </div>
       </div>
-      <div class="card center highlight" style="width:100%;">
-        <p style="color:var(--text); font-size:1.05rem;"><strong>Initiator:</strong> Max Mustermann &nbsp;·&nbsp; <span class="accent">christian@...</span></p>
-        <p style="margin-top:6px;">Dieses Dokument ist eine erste Projektskizze. Alle Details sind offen für gemeinsame Weiterentwicklung.</p>
+    </div>
+  </div>
+
+  <!-- 5. NÄCHSTER SCHRITT -->
+  <div class="slide" id="s5">
+    <div class="stack center" style="max-width:600px; gap:32px; align-items:center; text-align:center;">
+      <div>
+        <div class="label">Jetzt</div>
+        <h2>Lass uns <span class="accent">reden.</span></h2>
       </div>
+      <p style="font-size:clamp(1rem, 2vw, 1.15rem); max-width:480px;">
+        Das ist eine erste Skizze. Wir wollen gemeinsam herausfinden, ob und wie ihr Teil des Wittenberge Labs werden könnt.
+      </p>
+      <div class="card highlight" style="width:100%; padding:28px 32px;">
+        <p style="color:var(--text); font-size:1.1rem; margin-bottom:8px;"><strong>Vorname Nachname</strong></p>
+        <p>Initiator, Wittenberge Lab</p>
+        <p style="margin-top:12px;"><span class="accent">info@wittenberge-lab.de</span></p>
+      </div>
+      <p style="font-size:0.85rem;">Alle Details sind offen für gemeinsame Weiterentwicklung.</p>
     </div>
   </div>
 
@@ -591,7 +398,7 @@
 
 <div class="nav">
   <button id="prev" onclick="go(-1)" disabled>← Zurück</button>
-  <span class="slide-counter" id="counter">1 / 11</span>
+  <span class="slide-counter" id="counter">1 / 5</span>
   <button id="next" onclick="go(1)">Weiter →</button>
 </div>
 
