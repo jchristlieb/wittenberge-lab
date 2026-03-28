@@ -154,7 +154,31 @@ Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind
 
 ---
 
-## 7. Offene Punkte
+## 7. Finanzierungskonzept
+
+**Phase 1 – Sprint (3 Wochen)**
+
+| Posten | Betrag |
+|---|---|
+| Unterkunft (5 Wohnungen × 500 € × 1 Monat, WGW) | 2.500 € |
+| Stipendium (10 Personen × ~650 €) | 6.500 € |
+| **Gesamtbudget** | **9.000 €** |
+| LEADER-Förderung (80%) | 7.200 € |
+| Eigenanteil (20%) | 1.800 € |
+| Eigenanteil gedeckt durch WGW-Mietverzicht | 2.500 € |
+
+**Ergebnis: Phase 1 wäre ohne eigenes Geld finanzierbar** – vorausgesetzt LEADER akzeptiert den WGW-Mietverzicht als Eigenanteil. Im Beratungsgespräch mit LEADER zu klären.
+
+**Phase 2 – Umsetzung (3 Monate)**
+
+- Kein generelles Stipendium
+- Stattdessen: Projektbudget pro Team, aus dem auch eigene Arbeitszeit abgerechnet werden kann
+- Unterkunft: zu klären ob WGW-Wohnungen weiterhin verfügbar und zu welchen Konditionen
+- Finanzierung: LEADER-Antrag pro Projekt, Personalkosten als Teil des Vorhabens förderfähig
+
+---
+
+## 8. Offene Punkte
 
 Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf → Rekrutierung.**
 
