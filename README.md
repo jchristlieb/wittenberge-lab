@@ -37,7 +37,7 @@ Das Lab ist kein Förderprogramm und kein Workshop. Es ist ein Accelerator für 
 |---|---|
 | **Ort** | Wittenberge, Brandenburg |
 | **Laufzeit** | 3 Wochen Sprint + 3 Monate Umsetzung (selektiv) |
-| **Teilnehmende** | Ca. 10 Personen (diverse Hintergründe) |
+| **Teilnehmende** | 3 Teams à 3–4 Personen (9–12 Teilnehmende) |
 | **Unterkunft** | Community-Wohnungen der Elblandwerker – möbliert, sofort beziehbar, kostenlos |
 | **Arbeitsraum** | Coworking bei Elblandwerker oder TGZ im Bahnhof |
 | **Initiator** | Elblandwerker in Kooperation mit Stadt Wittenberge |
@@ -75,7 +75,7 @@ Die Elblandwerker initiieren das Lab: Wir wollen kreative Köpfe nach Wittenberg
 
 ## 2. Konzept
 
-Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
+Das Wittenberge Lab bringt 3 Teams à 3–4 Personen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
 
 Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
 
@@ -96,7 +96,7 @@ Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das gr
 Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
 
 **Phase 1 – 3 Wochen (Problemverständnis & Umsetzungsplan)**
-Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. Gruppen bilden sich organisch (voraussichtlich 2–3 Teams). Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
+Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. 3 Teams bilden sich organisch, je einem Fokusthema zugeordnet. Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
 
 **Jury – Ende Woche 3**
 Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
