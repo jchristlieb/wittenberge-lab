@@ -44,7 +44,7 @@ Das Lab nutzt diesen Moment: Wir wollen kreative Köpfe nach Wittenberge bringen
 
 ## 2. Konzept
 
-Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden werden mit konkreten Stadtentwicklungsproblemen konfrontiert und entwickeln eigeninitiativ Konzepte und Prototypen. Der Ansatz ist bewusst offen und selbstorganisiert – mit optionaler Unterstützung durch das Lab-Team.
+Das Wittenberge Lab bringt ca. 10 Menschen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit optionaler Unterstützung durch das Lab-Team.
 
 Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
 
@@ -64,11 +64,11 @@ Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das gr
 **Phase 0 – 4–6 Wochen vorher**
 Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
 
-**Phase 1 – 3 Wochen (Konzept & Prototyping)**
-Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. Gruppen bilden sich organisch (voraussichtlich 2–3 Teams). Teams organisieren sich selbst. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
+**Phase 1 – 3 Wochen (Problemverständnis & Umsetzungsplan)**
+Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. Gruppen bilden sich organisch (voraussichtlich 2–3 Teams). Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
 
 **Jury – Ende Woche 3**
-Teams präsentieren ihre Projekte vor der Jury. Jury aus lokalen Stadtakteuren bewertet Potenzial und Umsetzbarkeit. Entscheidung: Welche Projekte gehen in die Umsetzungsphase?
+Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
 
 **Phase 2 – 3 Monate (Umsetzung, selektiv)**
 Ausgewählte Teams setzen ihre Projekte konkret um. Weitere Unterstützung durch Initiator und lokale Partner vor Ort.
