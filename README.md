@@ -178,7 +178,20 @@ Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind
 
 ---
 
-## 8. Offene Punkte
+## 8. Erfolgsbild
+
+Das Wittenberge Lab ist erfolgreich, wenn aus dem Sprint konkrete Projekte entstehen, die messbar zur Stadtentwicklung beitragen. Mindestens eines der folgenden Ziele sollte durch Phase 2 erreicht werden:
+
+- **Leerstand sinkt** – mindestens ein Objekt in der Innenstadt wird dauerhaft aktiviert, ein neues Betreibermodell wird umgesetzt
+- **Zuzug stärkt sich** – mindestens ein Team oder einzelne Teilnehmende bleiben dauerhaft in Wittenberge, neue Strukturen zum Bleiben entstehen
+- **Neue Gewerbetreibende** – mindestens ein neues Unternehmen oder Gewerbetreibender siedelt sich in Wittenberge an
+- **Nachhaltiger Tourismus** – neue Angebote entlang des Elberadwegs oder im Biosphärenreservat entstehen, die dauerhaft Besucher anziehen und lokale Wertschöpfung schaffen
+
+Phase 1 ist der Weg dorthin: Teams die nach 3 Wochen einen überzeugenden Umsetzungsplan vorlegen, bekommen die Chance in Phase 2 echte Wirkung zu erzielen.
+
+---
+
+## 9. Offene Punkte
 
 Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf → Rekrutierung.**
 
