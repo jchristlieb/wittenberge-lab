@@ -37,7 +37,7 @@ Das Lab ist kein Förderprogramm und kein Workshop. Es ist ein Accelerator für 
 |---|---|
 | **Ort** | Wittenberge, Brandenburg |
 | **Laufzeit** | 3 Wochen Sprint + 3 Monate Umsetzung (selektiv) |
-| **Teilnehmende** | 3 Teams à 3–4 Personen (9–12 Teilnehmende) |
+| **Teilnehmende** | 4 Teams à 3–4 Personen (12–16 Teilnehmende) |
 | **Unterkunft** | Community-Wohnungen der Elblandwerker – möbliert, sofort beziehbar, kostenlos |
 | **Arbeitsraum** | Coworking bei Elblandwerker oder TGZ im Bahnhof |
 | **Initiator** | Elblandwerker in Kooperation mit Stadt Wittenberge |
@@ -75,7 +75,7 @@ Die Elblandwerker initiieren das Lab: Wir wollen kreative Köpfe nach Wittenberg
 
 ## 2. Konzept
 
-Das Wittenberge Lab bringt 3 Teams à 3–4 Personen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
+Das Wittenberge Lab bringt 4 Teams à 3–4 Personen für 3 Wochen nach Wittenberge. Die Teilnehmenden tauchen tief in konkrete Stadtprobleme ein, sprechen mit lokalen Akteuren, durchdenken verschiedene Lösungsansätze und entwickeln einen konkreten Umsetzungsplan. Der Ansatz ist bewusst offen und selbstorganisiert – mit Unterstützung durch die Elblandwerker als Lab-Team.
 
 Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das größte Potenzial für Wittenberge haben. Diese Projekte gehen in eine 3-monatige konkrete Umsetzungsphase.
 
@@ -96,7 +96,7 @@ Nach 3 Wochen entscheidet eine Jury aus lokalen Akteuren, welche Projekte das gr
 Stadtprobleme definieren und aufbereiten. Jury zusammenstellen. Teilnehmende rekrutieren und auswählen. Unterkunft und Coworking organisieren.
 
 **Phase 1 – 3 Wochen (Problemverständnis & Umsetzungsplan)**
-Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. 3 Teams bilden sich organisch, je einem Fokusthema zugeordnet. Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
+Teilnehmende leben und arbeiten in Wittenberge. Stadtprobleme werden vorgestellt. 4 Teams starten, je einem Fokusthema zugeordnet – mit Puffer falls ein Team den Sprint nicht übersteht. Teams tauchen tief ins Problem ein, führen Gespräche mit lokalen Akteuren und spielen verschiedene Lösungsansätze durch. Wöchentlicher gemeinsamer Check-in. Lab-Team unterstützt mit Guidance, Feedback und Kontakten.
 
 **Jury – Ende Woche 3**
 Teams präsentieren ihren Umsetzungsplan vor der Jury. Jury aus lokalen Stadtakteuren bewertet Problemverständnis, Ansatz und Umsetzbarkeit. Entscheidung: Welche Teams gehen in die Umsetzungsphase?
@@ -191,12 +191,12 @@ Das Wittenberge Lab lebt von lokalen Partnerschaften. Die folgenden Akteure sind
 
 | Posten | Betrag |
 |---|---|
-| Unterkunft (5 Wohnungen × 500 € × 1 Monat, WGW) | 2.500 € |
-| Stipendium (10 Personen × ~650 €) | 6.500 € |
-| **Gesamtbudget** | **9.000 €** |
-| LEADER-Förderung (80%) | 7.200 € |
-| Eigenanteil (20%) | 1.800 € |
-| Eigenanteil gedeckt durch WGW-Mietverzicht | 2.500 € |
+| Unterkunft (7 Wohnungen × 500 € × 1 Monat, WGW) | 3.500 € |
+| Stipendium (14 Personen × ~650 €) | 9.100 € |
+| **Gesamtbudget** | **12.600 €** |
+| LEADER-Förderung (80%) | 10.080 € |
+| Eigenanteil (20%) | 2.520 € |
+| Eigenanteil gedeckt durch WGW-Mietverzicht | 3.500 € |
 
 **Ergebnis: Phase 1 wäre ohne eigenes Geld finanzierbar** – vorausgesetzt LEADER akzeptiert den WGW-Mietverzicht als Eigenanteil. Im Beratungsgespräch mit LEADER zu klären.
 
@@ -247,7 +247,7 @@ Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf 
 **Sofort (Projekt steht oder fällt damit)**
 - Zeitplan festlegen – ohne Datum kein nächster Schritt
 - Abstimmungsgespräch mit Stadt Wittenberge – Wohnungen, Problem Owner, Kooperation
-- Wohnungskapazität auf 10 aufstocken – ohne das kein Projekt
+- Wohnungskapazität auf **6–8 Wohnungen** aufstocken (12–16 Teilnehmende, 4 Teams) – ohne das kein Projekt
 - Rechtsform klären – drei Optionen:
   - **e.V. gründen** – höchster LEADER-Fördersatz (80%), Gemeinnützigkeit möglich. Zwei Gründungsmitglieder stehen bereits fest, 5 weitere werden gebraucht – SoP-Alumni oder Elblandwerker-Community als Kandidaten
   - **Stadt Wittenberge als Träger** – spart Gründungsaufwand, Stadt hat Strukturen und bekommt ebenfalls hohe Fördersätze. Guter Gesprächspunkt im Abstimmungsgespräch
