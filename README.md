@@ -134,11 +134,9 @@ Alle Typen verbindet:
 
 Die Teilnehmenden erhalten am Onboarding-Tag einen strukturierten, datengestützten Überblick über drei konkrete Herausforderungen der Stadt. Diese decken sich direkt mit den Schwerpunktthemen der Kleinstadtakademie (Innenstadtbelebung, Wohnen, Zukunftsfähigkeit). Jedes Thema erhält einen konkreten Problem Owner – eine lokale Ansprechperson, die den Teams als Sparringspartner zur Verfügung steht.
 
-### Thema 1: Leerstand in der Innenstadt
+### Thema 1: Leerstand aktivieren
 
-Wittenberge kämpft seit der Wende mit strukturellem Leerstand. Obwohl sich die Lage verbessert hat, lag die Leerstandsquote im Innenstadtbereich 2022 noch bei 21,5 Prozent – besonders betroffen sind Altbaugebäude aus der Gründerzeit.
-
-Ein Leerstandswettbewerb 2023 brachte 24 Konzepte für Zwischennutzungen – mehrere scheiterten jedoch an zu hohen Investitionskosten. Hier liegt eine direkte Lücke, die das Lab adressieren kann.
+21,5% Leerstandsquote in der Innenstadt (2022) – besonders betroffen sind historische Gründerzeitgebäude. Ein Leerstandswettbewerb 2023 brachte 24 Konzepte, mehrere scheiterten an zu hohen Investitionskosten. Neue Betreibermodelle und Finanzierungsstrukturen werden gebraucht. Ein aktivierter Leerstand zieht direkt Menschen und Unternehmen an.
 
 Anknüpfungspunkte für Teams:
 - Neue Betreibermodelle und Finanzierungsstrukturen für schwierige Leerstandsobjekte
@@ -146,9 +144,9 @@ Anknüpfungspunkte für Teams:
 - Konzepte für Gastronomie und Kultur ohne hohe Vorabinvestitionen
 
 
-### Thema 2: Zuzug verstetigen
+### Thema 2: Zuzug & Bleiben
 
-Wittenberge hat heute erstmals seit der Wende wieder ein positives Wanderungssaldo – der Summer of Pioneers hat dazu beigetragen. Dennoch wird bis 2030 von einer leichten Schrumpfung von ca. 2 % ausgegangen. Es braucht Strukturen, die Menschen zum Bleiben bewegen.
+Wittenberge wächst wieder – aber bis 2030 wird trotzdem eine leichte Schrumpfung von ca. 2% prognostiziert. Zuzug allein reicht nicht: Es braucht Strukturen die Menschen nicht nur anziehen, sondern zum Bleiben bewegen. Was fehlt jungen Menschen, Familien und Gewerbetreibenden damit Wittenberge nicht nur ein Besuch, sondern ein Zuhause wird?
 
 Anknüpfungspunkte für Teams:
 - Was fehlt damit junge Menschen und Familien nicht nur kommen, sondern langfristig bleiben?
@@ -156,13 +154,16 @@ Anknüpfungspunkte für Teams:
 - Wie kann Wittenberge seine Lage zwischen Berlin und Hamburg (ICE-Anbindung) besser als Standortvorteil kommunizieren?
 
 
-### Thema 3: LAGA 2027 als Hebel
+### Thema 3: LAGA 2027 – Was bleibt danach?
 
-Die Landesgartenschau 2027 bringt bis zu 500.000 Besucher, Investitionen und Aufmerksamkeit. Die entscheidende Frage: Was bleibt danach?
+Die Landesgartenschau 2027 bringt bis zu 500.000 Besucher, Investitionen und Aufmerksamkeit. Kultur, Tourismus und LAGA werden bereits unter einer Führung gebündelt (Ernst Volkhardt, LAGA Tourismus Wittenberge GmbH). Die entscheidende Frage: Was bleibt nach dem Gartenschaujahr?
 
-Anknüpfungspunkte für Teams:
-- Welche dauerhaften Strukturen können im Rahmen der LAGA aufgebaut werden?
-- Wie können Besucher zu Interessenten und Interessenten zu Zuzüglern werden?
+Konkrete Orte als Anknüpfungspunkte:
+- **Elbwärts 455** (Nedwighafen) – Gastronomie, schwimmende Ferienhäuser, Elbblick. Wie wird daraus ein dauerhafter Anziehungspunkt?
+- **Wasserturm & Trinkhalle** – besondere Orte die langfristig bespielt und vermarktet werden müssen
+- **Elberadweg & Biosphärenreservat** – nachhaltiger Tourismus als Struktur die unabhängig von der LAGA trägt
+
+*Ansprechpartner: Ernst Volkhardt, LAGA Tourismus Wittenberge GmbH*
 
 
 ---
