@@ -193,6 +193,24 @@ Phase 1 ist der Weg dorthin: Teams die nach 3 Wochen einen überzeugenden Umsetz
 
 ## 9. Offene Punkte
 
+## Zeitplan
+
+| Zeitraum | Meilenstein |
+|---|---|
+| **Jetzt – sofort** | Stadtgespräch, Rechtsform, Wohnungskapazität klären |
+| **Q2/Q3 2026** | Partnerverträge, Beratungsgespräch LEADER, Antrag vorbereiten |
+| **04.09.2026** | LEADER-Antrag einreichen (Stichtag 8. Projektauswahlverfahren) |
+| **05.10.2026** | Projektauswahl im Beirat |
+| **Ende 2026** | Bewilligung durch LELF |
+| **Q1 2027** | Rekrutierung Teilnehmende |
+| **April/Mai 2027** | Sprint startet – 3 Wochen während der LAGA (21.04.–24.10.2027) |
+| **Juli 2027** | Jury |
+| **Aug–Okt 2027** | Phase 2 – Umsetzung |
+
+---
+
+## 9. Offene Punkte
+
 Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf → Rekrutierung.**
 
 **Sofort (Projekt steht oder fällt damit)**
