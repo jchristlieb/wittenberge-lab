@@ -162,13 +162,15 @@ Der kritische Pfad: **Datum → Stadt → Wohnungen → Partner → Fördertopf 
 - Zeitplan festlegen – ohne Datum kein nächster Schritt
 - Abstimmungsgespräch mit Stadt Wittenberge – Wohnungen, Problem Owner, Kooperation
 - Wohnungskapazität auf 10 aufstocken – ohne das kein Projekt
+- Rechtsform klären – ein gemeinnütziger Verein ist dringend empfohlen: höchster LEADER-Fördersatz (80%), Personalkosten förderfähig, saubere Struktur für Partnerschaften
 
 **Danach (aufbauend auf den ersten drei)**
 - Partnerschaftsgespräche führen – TGZ, Elblandwerker, Kleinstadtakademie, LAGA
 - Problem Owner pro Thema benennen – kommt aus den Partnerschaftsgesprächen
-- Fördertopf (~10.000 €) finanzieren – LEADER-Programm, Stiftungen, Partnerkofinanzierung prüfen
+- Beratungsgespräch mit LEADER Prignitz führen (Pflicht vor Antragstellung) – Kontakt: info@leader-prignitz.eu / 03876 3078770
+- Fördertopf finanzieren: LEADER eignet sich für Phase 2 (Umsetzung) – nicht für den Sprint selbst, da Projekt erst nach Bewilligung starten darf. Für Phase 1 kurzfristig Eigenkapital oder Kofinanzierungspartner (z.B. Stadt) sichern
 
 **Später (wenn das Fundament steht)**
+- LEADER-Antrag einreichen (nächste Deadline prüfen: leader-prignitz.eu)
 - Jury zusammenstellen
 - Rekrutierung starten (4–6 Wochen vor Sprint-Beginn)
-- Rechtsform klären – braucht das Lab eine eigene Struktur (Verein, GbR) oder läuft es unter dem Namen des Initiators?
